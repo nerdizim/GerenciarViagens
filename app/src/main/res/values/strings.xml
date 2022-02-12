@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dilce\'s Travel</string>
+    <string name="pesquisar">Pesquisar</string>
+    <string name="agendar_viagem">Agendar Viagem</string>
+    <string name="finan_as">Finanças</string>
+    <string name="passageiros">Passageiros</string>
+    <string name="hist_rico">Histórico</string>
+    <string name="trending">TRENDING</string>
+    <string name="home">home</string>
+    <string name="favorite">favorite</string>
+    <string name="account">account</string>
+    <string name="settings">settings</string>
+    <string name="viagens">Viagens</string>
+    <string name="dilce">Dilce</string>
+    <string name="lembretes">Lembretes</string>
+</resources>
